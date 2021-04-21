@@ -1,5 +1,7 @@
 ## Hi there i'm SEO Becak 👋
 
+- Visit my github blog : [SEO Becak](https://seobecak.github.io)
+
 <!--
 **seobecak/seobecak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
